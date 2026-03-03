@@ -62,6 +62,12 @@ Grain Level: Transaction-level liquor sales
 
 Google BigQuery – Data extraction, aggregation, and transformation
 
+![](Yearly_Revenue_Ranking_by_Product.sql)
+
+![](Yearly_Revenue_Ranking_by_Product.sql)
+
+![](Yearly_Revenue_Ranking_by_Product.sql)
+
 SQL (CTEs, Aggregations, Window Functions) – Data modeling logic
 
 ![](Yearly_Revenue_Ranking_by_Product.sql)
