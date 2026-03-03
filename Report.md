@@ -64,6 +64,8 @@ Google BigQuery – Data extraction, aggregation, and transformation
 
 SQL (CTEs, Aggregations, Window Functions) – Data modeling logic
 
+![](Yearly_Revenue_Ranking_by_Product.sql)
+
 Tableau Public – Dashboard design and visualization
 
 Tableau Calculations – LOD Expressions and Table Calculations
@@ -178,13 +180,9 @@ The Tableau dashboard includes:
 
 **Dashboard Preview**
 
-(Add your Tableau Public screenshot here)
+![](images/Category_Performance_&_Revenue_Intelligence_Dashboard_(2019-2025).png)
 
-Example format:
-
-![Dashboard Preview](your_image_link_here)
-
-Interactive Dashboard Link:
+**Interactive Dashboard Link:**
 
 https://public.tableau.com/views/CategoryPerformanceRevenueIntelligenceDashboard20192025/CategoryPerformanceRevenueIntelligenceDashboard2019-2025
 
