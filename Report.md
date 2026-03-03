@@ -62,15 +62,13 @@ Grain Level: Transaction-level liquor sales
 
 Google BigQuery – Data extraction, aggregation, and transformation
 
-![](Yearly_Revenue_Ranking_by_Product.sql)
-
-![](Yearly_Revenue_Ranking_by_Product.sql)
-
-![](Yearly_Revenue_Ranking_by_Product.sql)
+![](images/BigQuery_Table.png)
 
 SQL (CTEs, Aggregations, Window Functions) – Data modeling logic
 
-![](Yearly_Revenue_Ranking_by_Product.sql)
+![](images/SQL_BigQuery.png)
+
+![](images/SQL_BigQuery_2.png)
 
 Tableau Public – Dashboard design and visualization
 
